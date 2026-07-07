@@ -2,9 +2,7 @@
 
 # TOEESH CHAUDHARY
 
-`building at the software–hardware boundary`
-
-**17 · Delhi NCR · electronics & embedded systems**
+`17, delhi · electronics & embedded`
 
 <br>
 
@@ -23,42 +21,42 @@
 
 ---
 
-I build a lot, across a lot — systems tools in Rust and Go, full-stack apps that ship, a reasoning engine in Python, CTF challenges from scratch. It looks scattered. It isn't: it all points at the same place — **understanding machines top to bottom, from the transistor up.**
+Mostly into electronics and embedded systems. I build a lot on the side — systems tools, web apps, some security stuff. A few of them below.
 
 <br>
 
-### ⌁ &nbsp;Selected work
+### ⌁ &nbsp;Some things I've built
 
 <table>
 <tr>
 <td width="150"><b>MTTA</b><br><sub>live · web</sub></td>
-<td>My portfolio as a working NYC-subway transit map. Lines are identity threads, stations are projects — animated trains, a split-flap departures board, shareable boarding-pass cards.<br><a href="https://toeeshnetwork.vercel.app">↗ toeeshnetwork.vercel.app</a></td>
+<td>My portfolio, made as a fake subway map. Trains move around, there's a departures board that counts down, and you can share any station as a boarding pass.<br><a href="https://toeeshnetwork.vercel.app">↗ toeeshnetwork.vercel.app</a></td>
 </tr>
 <tr>
 <td><b>chamak</b><br><sub>Python · ~9k LOC</sub></td>
-<td>An investor-reasoning engine for Indian markets. Learns your investing philosophy as a belief graph, then scores the Nifty 50 against it in plain English. Hand-written rule parser + evaluator, 82 tests.</td>
+<td>Scores Nifty 50 stocks against your own investing rules. You describe how you pick stocks, it builds a graph out of that and explains each call. No ML libraries — I wrote the rule parser and evaluator by hand. 82 tests.</td>
 </tr>
 <tr>
 <td><b>writee</b><br><sub>Rust · wgpu</sub></td>
-<td>An infinite-canvas handwriting whiteboard. Custom SDF ink renderer on <code>wgpu</code>, R-tree spatial index, pressure-sensitive pen. No Electron.</td>
+<td>An infinite-canvas handwriting whiteboard. Wrote the ink renderer myself on <code>wgpu</code> instead of leaning on a UI framework. Pressure pen, R-tree for lookups, no Electron.</td>
 </tr>
 <tr>
 <td><b>HASH CTF</b><br><sub>security</sub></td>
-<td>Authored a 16-challenge interschool capture-the-flag — Wiener's RSA attack, a Mersenne Twister clone, a from-scratch bytecode VM to reverse.</td>
+<td>Wrote all 16 challenges for my school's CTF. The nastier ones: Wiener's attack on RSA, a Mersenne Twister clone, and a small bytecode VM you have to reverse.</td>
 </tr>
 <tr>
 <td><b>adhyapak</b><br><sub>ed-tech</sub></td>
-<td>A JEE-prep engine built from scratch. 94-chapter curriculum, SM-2 spaced repetition, XP and streaks, an interactive concept map.</td>
+<td>A JEE-prep app I made for myself. 94 chapters, spaced repetition, and XP/streaks so I'd actually keep opening it.</td>
 </tr>
 </table>
 
-<sub>more going public over time</sub>
+<sub>more going up over time</sub>
 
 <br>
 
-### ⌁ &nbsp;Ahead
+### ⌁ &nbsp;Where I'm headed
 
-Chip design. Hardware that closes the loop between the code and the silicon. Studying engineering in Japan.
+Hardware and chip design, and hopefully engineering school in Japan.
 
 <br>
 
