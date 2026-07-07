@@ -21,7 +21,7 @@
 
 ---
 
-Mostly into electronics and embedded systems. I build a lot on the side — systems tools, web apps, some security stuff. A few of them below.
+Mostly into electronics and embedded systems. I build a lot on the side - systems tools, web apps, some security stuff. A few of them below.
 
 <br>
 
@@ -56,7 +56,7 @@ Mostly into electronics and embedded systems. I build a lot on the side — syst
 
 ### ⌁ &nbsp;Where I'm headed
 
-Hardware and chip design, and hopefully engineering school in Japan.
+Hardware and software unity!
 
 <br>
 
