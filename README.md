@@ -22,15 +22,21 @@ status       probably debugging something
 
 ### [AEGIS](https://github.com/toeeshchaudhary/AEGIS)
 
+![ESP32](https://img.shields.io/badge/ESP32-b53136?style=flat-square&logo=espressif&logoColor=white)
+
 an experiment in how much you can measure with inexpensive hardware. an ESP32-based field-monitoring system that brings sensor readings from the physical world into a web dashboard.
 
 ### [writee](https://github.com/toeeshchaudhary/writee)
+
+![wgpu](https://img.shields.io/badge/wgpu-8854a8?style=flat-square&logo=rust&logoColor=white)
 
 an infinite canvas for handwritten things. built the ink renderer in Rust using wgpu, with pressure-sensitive strokes and R-tree spatial indexing for efficient stroke selection and erasing.
 
 turns out getting digital ink to feel like actual ink is a rather interesting engineering problem.
 
 ### Xbox graphics research
+
+![Vulkan](https://img.shields.io/badge/Vulkan-a41e22?style=flat-square&logo=vulkan&logoColor=white)
 
 independent research into Xbox-to-PC graphics compatibility and GTA VI static recompilation, alongside contributions to Leonida.
 
@@ -60,3 +66,7 @@ Rust · C · Go · Python · TypeScript · Vulkan · ESP32 · Arch Linux
 
 [![GitHub followers](https://img.shields.io/github/followers/toeeshchaudhary?style=flat-square&label=followers)](https://github.com/toeeshchaudhary?tab=followers)
 [Public repositories and activity ↗](https://github.com/toeeshchaudhary?tab=repositories)
+
+## contribution activity
+
+[![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=toeeshchaudhary&theme=github-compact&hide_border=true&hide_title=true)](https://github.com/toeeshchaudhary?tab=overview)
