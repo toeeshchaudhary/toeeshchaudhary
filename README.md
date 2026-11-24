@@ -67,6 +67,9 @@ Rust · C · Go · Python · TypeScript · Vulkan · ESP32 · Arch Linux
 [![GitHub followers](assets/profile/github-followers.png)](https://github.com/toeeshchaudhary?tab=followers)
 [Public repositories and activity ↗](https://github.com/toeeshchaudhary?tab=repositories)
 
-## contribution activity
+## on GitHub
 
 [![GitHub contribution activity](assets/profile/github-contribution-activity.png)](https://github.com/toeeshchaudhary?tab=overview)
+
+[![Recently updated public projects, languages and push dates](assets/profile/recent-projects.png)](https://github.com/toeeshchaudhary?tab=repositories&q=&type=source&sort=updated)
+
