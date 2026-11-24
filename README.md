@@ -1,9 +1,9 @@
 # hey, i'm toeesh.
 
-[![Website](https://img.shields.io/badge/toeesh.dev-181717?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://toeesh.dev)
-[![MTTA](https://img.shields.io/badge/take_the_metro-181717?style=flat-square&logo=metro&logoColor=white)](https://toeeshnetwork.vercel.app)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/toeeshchaudhary)
-![Location](https://img.shields.io/badge/delhi,_india-181717?style=flat-square&logo=googlemaps&logoColor=white)
+[![Website](assets/profile/website.png)](https://toeesh.dev)
+[![MTTA](assets/profile/mtta.png)](https://toeeshnetwork.vercel.app)
+[![GitHub](assets/profile/github.png)](https://github.com/toeeshchaudhary)
+![Location](assets/profile/location.png)
 
 i like computers, preferably at the level where things start getting unnecessarily complicated.
 
@@ -22,13 +22,13 @@ status       probably debugging something
 
 ### [AEGIS](https://github.com/toeeshchaudhary/AEGIS)
 
-![ESP32](https://img.shields.io/badge/ESP32-b53136?style=flat-square&logo=espressif&logoColor=white)
+![ESP32](assets/profile/esp32.png)
 
 an experiment in how much you can measure with inexpensive hardware. an ESP32-based field-monitoring system that brings sensor readings from the physical world into a web dashboard.
 
 ### [writee](https://github.com/toeeshchaudhary/writee)
 
-![wgpu](https://img.shields.io/badge/wgpu-8854a8?style=flat-square&logo=rust&logoColor=white)
+![wgpu](assets/profile/wgpu.png)
 
 an infinite canvas for handwritten things. built the ink renderer in Rust using wgpu, with pressure-sensitive strokes and R-tree spatial indexing for efficient stroke selection and erasing.
 
@@ -36,7 +36,7 @@ turns out getting digital ink to feel like actual ink is a rather interesting en
 
 ### Xbox graphics research
 
-![Vulkan](https://img.shields.io/badge/Vulkan-a41e22?style=flat-square&logo=vulkan&logoColor=white)
+![Vulkan](assets/profile/vulkan.png)
 
 independent research into Xbox-to-PC graphics compatibility and GTA VI static recompilation, alongside contributions to Leonida.
 
@@ -64,9 +64,9 @@ broken pixels are surprisingly useful when you know what they're supposed to loo
 
 Rust · C · Go · Python · TypeScript · Vulkan · ESP32 · Arch Linux
 
-[![GitHub followers](https://img.shields.io/github/followers/toeeshchaudhary?style=flat-square&label=followers)](https://github.com/toeeshchaudhary?tab=followers)
+[![GitHub followers](assets/profile/github-followers.png)](https://github.com/toeeshchaudhary?tab=followers)
 [Public repositories and activity ↗](https://github.com/toeeshchaudhary?tab=repositories)
 
 ## contribution activity
 
-[![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=toeeshchaudhary&theme=github-compact&hide_border=true&hide_title=true)](https://github.com/toeeshchaudhary?tab=overview)
+[![GitHub contribution activity](assets/profile/github-contribution-activity.png)](https://github.com/toeeshchaudhary?tab=overview)
